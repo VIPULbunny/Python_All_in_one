@@ -1,0 +1,5 @@
+f = open("D:\Python- Apna College\python codes\lecture 7\demo.txt","r")
+data = f.read()
+print(data)
+print(type(data))
+f.close() 
